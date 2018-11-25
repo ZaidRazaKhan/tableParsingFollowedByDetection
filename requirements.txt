@@ -1,0 +1,6 @@
+luminoth == 0.2.0
+pandas
+numpy
+Pillow
+tensorflow == 1.5.0
+
